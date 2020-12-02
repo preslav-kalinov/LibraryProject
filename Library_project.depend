@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1588195475 source:d:\projectsc\Мой упражнения\library_projectnum2\main.c
+	"main.h"
+
+1588195581 d:\projectsc\Мой упражнения\library_projectnum2\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606921790 source:d:\projectsc\Мой упражнения\library_project\main.c
+	"main.h"
+
+1588191981 d:\projectsc\Мой упражнения\library_project\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
